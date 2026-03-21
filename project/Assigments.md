@@ -1,4 +1,5 @@
 # Page Assignment:
 - Luisa = Home Page
-- Spencer = 
-- Mahonri = 
+- Mahonri = Campus Map Page
+- Spencer = Building Lost & found page
+
